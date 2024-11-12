@@ -50,7 +50,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
 langchain==0.2.12
-langchain-community==0.2.11
+langchain-community==0.2.19
 langchain-core==0.2.29
 langchain-google-genai==1.0.8
 langchain-openai==0.1.20
